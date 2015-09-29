@@ -1,0 +1,3 @@
+<?php
+echo phpinfo();
+//this is test file...
